@@ -1,14 +1,14 @@
 {
-  "name": "ansicolors",
-  "version": "0.3.2",
+  "name": "kuttuk-ansicolors",
+  "version": "0.3.2-kuttuk",
   "description": "Functions that surround a string with ansicolor codes so it prints in color.",
   "main": "ansicolors.js",
   "scripts": {
-    "test": "node test/*.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/thlorenz/ansicolors.git"
+    "url": "git://github.com/kuttuk/kuttuk-ansicolors.git"
   },
   "keywords": [
     "ansi",
